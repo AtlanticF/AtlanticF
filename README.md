@@ -2,14 +2,10 @@
 
 I'm a **PHP** develop engineer 🧑‍💻. I'm trying to learn more computer knowledge 📚︎📚︎.
 
----
-
 - 📚︎ Reading 《Computer Systems: A Programmer's Perspective》
 - 🧐 Studying GNU/Linux Opreating System
 - 📫 How to reach me: atlanticfeng@icloud.com
 - ⚡ Fun fact: Keep Running 🏃
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
