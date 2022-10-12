@@ -1,8 +1,8 @@
 ### Hi there 👋
 
----
-
 I'm a **PHP** develop engineer 🧑‍💻. I'm trying to learn more computer knowledge 📚︎📚︎.
+
+---
 
 - 📚︎ Reading 《Computer Systems: A Programmer's Perspective》
 - 🧐 Studying GNU/Linux Opreating System
