@@ -7,7 +7,7 @@ I'm a **PHP** develop engineer 🧑‍💻. I'm trying to learn more computer kn
 - 📫 How to reach me: atlanticfeng@icloud.com
 - ⚡ Fun fact: Keep Running 🏃
 
-### :hammer_and_wrench: Languages and Tools :
+#### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="20" height="20"/>&nbsp;
@@ -16,7 +16,9 @@ I'm a **PHP** develop engineer 🧑‍💻. I'm trying to learn more computer kn
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="20" height="20"/>&nbsp;
 </div>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlanticF&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlanticF&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AtlanticF/AtlanticF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
