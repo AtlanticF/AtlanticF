@@ -12,6 +12,7 @@
   <a href="mailto:atlanticfeng@icloud.com">
     <img src="https://img.shields.io/badge/Email-atlanticfeng%40icloud.com-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=AtlanticF&style=flat-square&color=0A66C2" alt="Profile views" />
   <img src="https://img.shields.io/badge/Backend-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="Backend PHP" />
   <img src="https://img.shields.io/badge/System-GNU%2FLinux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="GNU/Linux" />
   <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
