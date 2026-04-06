@@ -47,8 +47,7 @@
 ## GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AtlanticF&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" alt="AtlanticF GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtlanticF&layout=compact&langs_count=6&hide_border=true" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/AtlanticF/AtlanticF/main/github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 ## Featured Projects
@@ -64,5 +63,5 @@
 
 ## Notes
 
-- This profile README is built with `github-readme-stats`, `shields.io`, and `Platane/snk`.
+- This profile README is built with `lowlighter/metrics`, `shields.io`, and `Platane/snk`.
 - Open to discussions around backend engineering, systems, and developer tooling.
