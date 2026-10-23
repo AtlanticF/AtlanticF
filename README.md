@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  Currently all in on AI.
+  Building AI agents and indie tools.
 </p>
 
 <p align="left">
@@ -24,13 +24,14 @@
 - Backend engineer with a primary focus on PHP, Linux, and backend infrastructure.
 - Interested in computer systems, operating systems, and practical engineering fundamentals.
 - Currently deepening knowledge in low-level systems, databases, and developer tooling.
+- Formerly R&D at a cryptocurrency exchange; now on a gap year shipping agents and backend tooling.
 - Contact: `atlanticfeng@icloud.com`
 
 ## Current Focus
 
-- Reading *Computer Systems: A Programmer's Perspective*
-- Studying GNU/Linux and operating system fundamentals
-- Building a stronger foundation in backend systems and developer tools
+- Building AI agents (Vercel AI SDK, Langfuse observability, Cloudflare Workers)
+- Rewriting [phpserver](https://github.com/AtlanticF/phpserver): lightweight zero-dependency PHP RPC for Linux/Kubernetes
+- Indie tools and personal product experiments (e.g. running page)
 
 ## Tech Stack
 
@@ -56,8 +57,10 @@
 
 ## Featured Projects
 
-- [aicoderlaicai-skills](https://github.com/AtlanticF/aicoderlaicai-skills): A collection of reusable skills distilled from content production and workflow practice.
-- [ai-bookmark-organizer](https://github.com/AtlanticF/ai-bookmark-organizer): An AI-powered Chrome bookmark organizer built in a rapid prototyping workflow.
+- [phpserver](https://github.com/AtlanticF/phpserver) — Lightweight, zero-dependency multi-process text RPC server for modern PHP (Linux/K8s-ready rewrite).
+- [SoloOS](https://github.com/AtlanticF/SoloOS) — Turn daily work into structured events with SQLite-backed review workflows.
+- [translate-agent](https://github.com/AtlanticF/translate-agent) — Translation agent (AI SDK + Ink); live Cloudflare demo: https://translate-agent-web.atlanticfeng.workers.dev
+- [phpdoc-openai-trans](https://github.com/AtlanticF/phpdoc-openai-trans) — CLI that translates PHPDoc via the OpenAI API.
 
 ## Contribution Graph
 
@@ -68,4 +71,4 @@
 ## Notes
 
 - This profile README is built with `lowlighter/metrics`, `shields.io`, and `Platane/snk`.
-- Open to discussions around backend engineering, systems, and developer tooling.
+- Open to discussions around backend engineering, systems, developer tooling, AI agents, and freelance work.
