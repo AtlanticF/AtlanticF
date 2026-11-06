@@ -61,6 +61,7 @@
 - [SoloOS](https://github.com/AtlanticF/SoloOS) — Turn daily work into structured events with SQLite-backed review workflows.
 - [translate-agent](https://github.com/AtlanticF/translate-agent) — Translation agent (AI SDK + Ink); live Cloudflare demo: https://translate-agent-web.echoloveyue.workers.dev
 - [phpdoc-openai-trans](https://github.com/AtlanticF/phpdoc-openai-trans) — CLI that translates PHPDoc via the OpenAI API.
+- [harness-mini](https://github.com/harness-mini/harness-mini) — Minimal outer harness for long coding-agent tasks; skills, sub-agents, plans, checkpoints, and evals as files + shell.
 
 ## Contribution Graph
 
