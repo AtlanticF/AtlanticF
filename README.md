@@ -29,9 +29,8 @@
 
 ## Current Focus
 
-- Building AI agents (Vercel AI SDK, Langfuse observability, Cloudflare Workers)
+- Design and implement [harness-mini](https://github.com/harness-mini/harness-mini): A minimal outer harness for developers' long AI Agent coding tasks. 
 - Rewriting [phpserver](https://github.com/AtlanticF/phpserver): lightweight zero-dependency PHP RPC for Linux/Kubernetes
-- Indie tools and personal product experiments (e.g. running page)
 
 ## Tech Stack
 
