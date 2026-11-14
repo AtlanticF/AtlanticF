@@ -32,18 +32,6 @@
 - Design and implement [harness-mini](https://github.com/harness-mini/harness-mini): A minimal outer harness for developers' long AI Agent coding tasks. 
 - Rewriting [phpserver](https://github.com/AtlanticF/phpserver): lightweight zero-dependency PHP RPC for Linux/Kubernetes
 
-## Tech Stack
-
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="28" height="28"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="28" height="28"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="28" height="28"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="28" height="28"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="28" height="28"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="28" height="28"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="28" height="28"/>&nbsp;
-</p>
-
 ## Featured Projects
 
 - [phpserver](https://github.com/AtlanticF/phpserver) — Lightweight, zero-dependency multi-process text RPC server for modern PHP (Linux/K8s-ready rewrite).
