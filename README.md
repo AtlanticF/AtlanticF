@@ -44,16 +44,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="28" height="28"/>&nbsp;
 </p>
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AtlanticF&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/AtlanticF/AtlanticF/main/github-metrics.svg" alt="GitHub metrics" />
-</p>
-
 ## Featured Projects
 
 - [phpserver](https://github.com/AtlanticF/phpserver) — Lightweight, zero-dependency multi-process text RPC server for modern PHP (Linux/K8s-ready rewrite).
@@ -65,10 +55,9 @@
 ## Contribution Graph
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/AtlanticF/AtlanticF/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://ghchart.rshah.org/AtlanticF" alt="AtlanticF's GitHub contribution graph" />
 </p>
 
 ## Notes
 
-- This profile README is built with `lowlighter/metrics`, `shields.io`, and `Platane/snk`.
 - Open to discussions around backend engineering, systems, developer tooling, AI agents, and freelance work.
